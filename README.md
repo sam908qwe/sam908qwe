@@ -4,7 +4,7 @@
     <td>
 
 <h1>Hi 👋, I'm Sameer Khan</h1>
-<h3>1st Year BCA Student | Jamia Hamdard (Online) | Front-End Developer in Progress 🚀</h3>
+<h3>1st Year BCA Student | Jamia Hamdard (Online) | Full Stack Developer in Progress 🚀</h3>
 
 🎓 I'm currently pursuing <strong>Bachelor of Computer Applications (BCA)</strong>  
 🏫 From: <strong>Jamia Hamdard University (Online Program)</strong>  
