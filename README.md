@@ -28,8 +28,9 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,react,nodejs,mongodb,git,github,vscode" />
 </p>
+
 
 ---
 
